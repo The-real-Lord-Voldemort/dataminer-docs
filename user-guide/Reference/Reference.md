@@ -2,7 +2,7 @@
 uid: Part7Reference
 ---
 
-# Reference
+# About the Reference section
 
 - [DataMiner Compute Requirements](xref:DataMiner_Compute_Requirements)
 
